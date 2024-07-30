@@ -1,1 +1,1 @@
-# This repo has deangerously-devilish-notebooks which are neither dangerous nor devilish but are definitely notebooks.
+# This repo has dangerously-devilish-notebooks which are neither dangerous nor devilish but are definitely notebooks.
